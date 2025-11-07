@@ -35,3 +35,9 @@ Based on the existing entry:
 - Reference external resources with links
 - Keep it concise and practical
 - Focus on "how to" rather than theory
+
+## Automatically update README with uncommited TILs
+
+```bash
+uv run update_readme.py
+```
