@@ -3,3 +3,7 @@ My Today I Learned snippets. Inspired by [Simon Willison](https://github.com/sim
 
 Wanted to do something like this for a while but never got started. 
 Randomly getting started on 2025-11-07.
+
+## TILs
+
+- 2025-11-07: [Use Raycast Quicklinks to open RCSB PDB 3D Viewer](./raycast/rcsb-quicklinks.md)
