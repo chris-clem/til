@@ -1,6 +1,6 @@
 # Use Raycast Quicklinks to open RCSB PDB 3D Viewer
 
-1. Create a [Raycast Quicklinks](https://www.raycast.com/core-features/quicklinks) with the following content:
+1. Create a [Raycast Quicklink](https://www.raycast.com/core-features/quicklinks) with the following content:
 ```
 Name: RCSB Structure
 Link: https://www2.rcsb.org/3d-view/{clipboard}
@@ -17,3 +17,5 @@ Link: https://www2.rcsb.org/3d-view/{clipboard}
 ![open-quicklink](./rcsb-quicklink-pngs/open-quicklink.png)
 
 4. https://www2.rcsb.org/3d-view/2GEU opens in your browser of choice.
+
+5. Repeat with "https://www.rcsb.org/ligand/{clipboard}" for RCSB Ligand Viewer Quicklink where a CCD code is copied to the clipboard.
