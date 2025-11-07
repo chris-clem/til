@@ -36,8 +36,22 @@ Based on the existing entry:
 - Keep it concise and practical
 - Focus on "how to" rather than theory
 
-## Automatically update README with uncommited TILs
+## Development
+
+### Automatically update README with uncommited TILs
 
 ```bash
 uv run update_readme.py
+```
+
+### Pre-commit hooks
+
+Install pre-commit hooks:
+```bash
+pre-commit install
+```
+
+Run pre-commit hooks:
+```bash
+pre-commit run --all-files
 ```
