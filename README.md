@@ -10,3 +10,5 @@ Randomly getting started on 2025-11-07.
 - 2025-11-10: [Manage GCP Buckets](./gcp/manage-gcp-buckets.md)
 - 2025-11-10: [Fix missing terminal error message](./ghostty/fix-missing-terminal.md)
 - 2025-11-10: [Useful SkyPilot Commands](./skypilot/useful-skypilot-commands.md)
+- 2025-11-11: [Template data exploration Jupyter notebook](./python/explore-data-jupyter-notebook.md)
+- 2025-11-11: [Template data processing script with pathlib, fire, joblib, loguru, and tqdm](./python/process-data-script.md)
