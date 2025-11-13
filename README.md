@@ -13,3 +13,5 @@ Randomly getting started on 2025-11-07.
 - 2025-11-11: [Template data exploration Jupyter notebook](./python/explore-data-jupyter-notebook.md)
 - 2025-11-11: [Template data processing script with pathlib, fire, joblib, loguru, and tqdm](./python/process-data-script.md)
 - 2025-11-12: [Useful Datamol functions](./datamol/useful-datamol-functions.md)
+- 2025-11-13: [Request GCP quota increase](./gcp/request-gcp-quota-increase.md)
+- 2025-11-13: [Multi-node GPU training with SkyPilot and PyTorch Lightning](./skypilot/multi-node-gpu-training.md)
