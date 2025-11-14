@@ -15,3 +15,4 @@ Randomly getting started on 2025-11-07.
 - 2025-11-12: [Useful Datamol functions](./datamol/useful-datamol-functions.md)
 - 2025-11-13: [Request GCP quota increase](./gcp/request-gcp-quota-increase.md)
 - 2025-11-13: [Multi-node GPU training with SkyPilot and PyTorch Lightning](./skypilot/multi-node-gpu-training.md)
+- 2025-11-14: [Python Template Project](./python/python-template-project.md)
